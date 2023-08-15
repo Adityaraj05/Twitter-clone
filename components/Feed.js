@@ -8,7 +8,7 @@ export default function Feed() {
       id: "1",
       name: "Saumya Dubey",
       username: "saumyadubey05",
-      userImg: "https://www.adscientificindex.com/pictures/0b/50734.jpg",
+      userImg: "https://i.pinimg.com/originals/5a/6b/16/5a6b16956a2753892d9ee5714f6f112a.jpg",
       img: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80",
       text: "Mountains!",
       timestamp: "2 hours ago",
