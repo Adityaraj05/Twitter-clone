@@ -13,7 +13,7 @@ import {
 } from "@heroicons/react/outline";
 export default function Sidebar() {
   return (
-    <div className="hidden sm:flex flex-col p-2 xl:items-start fixed h-full">
+    <div className="hidden sm:flex flex-col p-2 xl:items-start fixed h-full xl:ml-24">
       {/* Twitter Logo */}
       <div className="hoverEffect p-0 hover:bg-blue-100 xl:px-1">
         <Image
@@ -50,7 +50,7 @@ export default function Sidebar() {
         />
         <div className="leading-5 hidden xl:inline">
           <h4 className="font-bold">Aditya Raj</h4>
-          <p className="text-gray-500">@Adityarajavi05</p>
+          <p className="text-gray-500">@adityarajavi05</p>
         </div>
         <DotsHorizontalIcon className="h-5 xl:ml-8 hidden xl:inline"/>
       </div>
