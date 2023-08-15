@@ -10,7 +10,7 @@ export default function Feed() {
       username: "saumyadubey05",
       userImg: "https://www.adscientificindex.com/pictures/0b/50734.jpg",
       img: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80",
-      text: "Beautyful!",
+      text: "Mountains!",
       timestamp: "2 hours ago",
     },
     {
